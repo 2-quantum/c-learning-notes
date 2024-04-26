@@ -1,0 +1,2 @@
+This is quantum.
+Writing in file from another file.
